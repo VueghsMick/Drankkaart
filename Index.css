@@ -1,0 +1,22 @@
+body {
+    background-color: #fff7cc;
+}
+
+h1 {
+    color: #ccad00;
+}
+
+h3 {
+    color: #ccad00;
+}
+
+.drankkaart {
+    text-align: center;
+    border: #ccad00 solid 5px;
+    border-left-width: 100px;
+    border-right-width: 100px;
+}
+
+.drinks {
+    margin-left: 650px;
+}
