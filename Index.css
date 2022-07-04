@@ -1,18 +1,20 @@
 body {
-    background-color: #fff7cc;
+    background-color: #cce0ff;
 }
 
 h1 {
-    color: #ccad00;
+    color: #0066ff;
+    /*color: #ccad00;*/
 }
 
 h3 {
-    color: #ccad00;
+    color: #0066ff;
+    /*color: #ccad00;*/
 }
 
 .drankkaart {
     text-align: center;
-    border: #ccad00 solid 5px;
+    border: #0066ff solid 5px;
     border-left-width: 100px;
     border-right-width: 100px;
 }
