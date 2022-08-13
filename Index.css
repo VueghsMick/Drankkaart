@@ -1,20 +1,28 @@
 body {
-    background-color: #cce0ff;
+    background-color: #fff7cc;
 }
 
 h1 {
-    color: #0066ff;
-    /*color: #ccad00;*/
+    /*color: #0066ff;*/
+    color: #ccad00;
 }
 
 h3 {
-    color: #0066ff;
-    /*color: #ccad00;*/
+    /*color: #0066ff;*/
+    color: #ccad00;
+}
+
+.bier {
+    color: #ccad00;
+}
+
+.wijn {
+    color: #ccad00;
 }
 
 .drankkaart {
     text-align: center;
-    border: #0066ff solid 5px;
+    border: #ccad00 solid 5px;
     border-left-width: 100px;
     border-right-width: 100px;
 }
