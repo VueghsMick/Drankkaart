@@ -1,20 +1,20 @@
 body {
-    background-color: #cce6ff;
+    background-color: #ffe6ff;
 }
 
 h1 {
     /*color: #0066ff;*/
-    color: #0084ff;
+    color: #b300b3;
 }
 
 h3 {
     /*color: #0066ff;*/
-    color: #0084ff;
+    color: #b300b3;
 }
 
 .drankkaart {
     text-align: center;
-    border: #0084ff solid 5px;
+    border: #b300b3 solid 5px;
     border-left-width: 100px;
     border-right-width: 100px;
 }
@@ -25,9 +25,9 @@ h3 {
 
 a {
     text-decoration: none;
-    color: black;
+    color: #800080;
 }
 
 a:hover {
-    color: #0084ff;
+    color: #b300b3;
 }
